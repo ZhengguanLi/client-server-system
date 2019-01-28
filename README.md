@@ -1,6 +1,6 @@
 # Client Server System
 
-The client-server system is a socket programming in C language (Linux environment) which implements a pair of client and server that can achieve simple password verification to indicate the current market value of the stock.
+The client-server system is a socket programming application in C language (Linux environment) which implements a pair of client and server that can achieve simple password verification to indicate the current market value of the stock.
 
 ## Usage
 
